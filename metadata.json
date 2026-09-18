@@ -1,0 +1,10 @@
+{
+  "name": "Official Letter Assistant",
+  "description": "Government office official letter and document drafting assistant with live A4 preview, voice input, PDF letterhead integration, signature positioning, and compliance tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
